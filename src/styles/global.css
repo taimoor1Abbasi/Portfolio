@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: linear-gradient(110deg, #000103 0%, #1c0026 25%, #3a0251 50%, #1c0026 75%, #000103 100%);
+}
+
+.text-shadow {
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
